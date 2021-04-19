@@ -1,1 +1,1 @@
-var link = "https://topcontroldigital.website/";
+var link = "https://appmanagesall.site/Ss9tv3VH?utm_term={keyword}&utm_creative={creative}&utm_campaign={campaignid}&utm_position={adposition}&utm_network={network}&utm_target={target}&utm_placement={placement}&utm_match={matchtype}&gclid={gclid}";
